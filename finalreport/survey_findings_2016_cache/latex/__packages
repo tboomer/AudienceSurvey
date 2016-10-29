@@ -1,0 +1,15 @@
+base
+readxl
+readr
+stringr
+dplyr
+reshape2
+ggplot2
+ggmap
+tidyr
+RColorBrewer
+plyr
+XML
+acs
+choroplethr
+choroplethrZip
